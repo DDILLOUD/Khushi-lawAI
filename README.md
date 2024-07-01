@@ -19,3 +19,8 @@ This project provides an interactive web application for analyzing the Constitut
 
 1. Clone this repository
 2. Install the required packages:
+
+
+
+
+Demo available  -  https://huggingface.co/spaces/Devendra21/khushi-Law-AI
