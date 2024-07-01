@@ -1,4 +1,4 @@
-# Khushi-lawAI /# Indian Constitution Analyzer
+# Khushi-lawAI / Indian Constitution Analyzer
 This project provides an interactive web application for analyzing the Constitution of India. It offers features such as article search, document summarization, and extraction of important points from legal texts.
 
 ## Features
